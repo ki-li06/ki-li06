@@ -11,7 +11,7 @@ I'm a student from Munich and I like programming.
 ![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java&logoColor=white&color=eb2d2
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white&color=000000)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Thingiverse](https://img.shields.io/static/v1?style=for-the-badge&message=Thingiverse&color=248BFB&logo=Thingiverse&logoColor=FFFFFF&label=)
+![Thingiverse](https://img.shields.io/static/v1?style=flat-squaree&message=Thingiverse&color=248BFB&logo=Thingiverse&logoColor=FFFFFF&label=)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-li06&theme=tokyonight&layout=compact)
 
