@@ -2,7 +2,8 @@
 
 ### About me
 I'm a student from Munich and I like programming.
-🔭 currently working on my Chess project (-> Schach) \n
+
+🔭 currently working on my Chess project (-> Schach)
 🎯 Where to find me:  
 <a href="https://discordapp.com/users/702821727004000307"><img src="https://img.shields.io/badge/dankemerkell-1A1B27?style=flat-square&logo=discord"></a>
 <a href="https://www.thingiverse.com/ki_li06/designs"><img src="https://img.shields.io/badge/ki_li06-1A1B27?style=flat-square&logo=thingiverse"></a>
