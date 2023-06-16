@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there👋, I'm Kilian</h1>
 
-###About me
+### About me
 I'm a student from Munich and I like programming.
 🔭 currently working on my Chess project (-> Schach)
 🎯 Where to find me:  
