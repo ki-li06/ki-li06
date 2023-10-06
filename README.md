@@ -3,7 +3,7 @@
 ### About me
 I'm a student from Munich and I like programming.
 
-🔭 currently working on my chess project (-> Schach) <br>
+🔭 currently learning python <br>
 🎯 Where to find me:
 
 <a href="https://discordapp.com/users/702821727004000307"><img src="https://img.shields.io/badge/dankemerkell-1A1B27?style=flat-square&logo=discord"></a>
@@ -20,8 +20,7 @@ I'm a student from Munich and I like programming.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white&color=00979D)
 ![Thingiverse](https://img.shields.io/static/v1?style=flat-square&message=Thingiverse&color=248BFB&logo=Thingiverse&logoColor=FFFFFF&label=)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-li06&layout=compact&langs_count=10&card_width=350)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-li06&theme=tokyonight&layout=compact&langs_count=10&card_width=350)
 
 <!--
 **ki-li06/ki-li06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
