@@ -20,8 +20,7 @@ I'm a student from Munich and I like programming.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white&color=00979D)
 ![Thingiverse](https://img.shields.io/static/v1?style=flat-square&message=Thingiverse&color=248BFB&logo=Thingiverse&logoColor=FFFFFF&label=)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-li06&theme=tokyonight&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-li06&layout=compact&langs_count=10&card_width=350)]
 
 
 <!--
